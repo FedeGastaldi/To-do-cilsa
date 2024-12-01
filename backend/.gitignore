@@ -1,0 +1,13 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar el build (si tienes una carpeta de build)
+build/
+
+# Otros archivos que no quieras que se suban
