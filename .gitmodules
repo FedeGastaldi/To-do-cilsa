@@ -1,0 +1,3 @@
+[submodule "todo-list-frontend"]
+	path = todo-list-frontend
+	url = https://github.com/FedeGastaldi/todo-list-frontend.git
